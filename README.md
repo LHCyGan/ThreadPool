@@ -1,7 +1,4 @@
 # ThreadPool
-C++11实现的ThreadPool
-
-# ThreadPool
 c++11线程池
 
 ## TODO
