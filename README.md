@@ -7,3 +7,13 @@ c++11线程池
 - [x] 线程池
 - [x] 任务分发
 
+```
+mkdir build & cd build
+```
+```
+cmake ..
+```
+```
+make install
+```
+
